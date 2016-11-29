@@ -1,2 +1,5 @@
 # hello-world2
-Testing
+
+Hello,
+
+This project is a practice thing for school.
